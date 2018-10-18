@@ -1,0 +1,14 @@
+c:/users/bogdan/source/repos/MyShop/MyShop/bin/Debug/MyShop.exe.config
+c:/users/bogdan/source/repos/MyShop/MyShop/bin/Debug/MyShop.exe
+c:/users/bogdan/source/repos/MyShop/MyShop/bin/Debug/MyShop.pdb
+c:/users/bogdan/source/repos/MyShop/MyShop/obj/Debug/MyShop.csprojAssemblyReference.cache
+c:/users/bogdan/source/repos/MyShop/MyShop/obj/Debug/MyShop.csproj.CoreCompileInputs.cache
+c:/users/bogdan/source/repos/MyShop/MyShop/obj/Debug/MyShop.exe
+c:/users/bogdan/source/repos/MyShop/MyShop/obj/Debug/MyShop.pdb
+/Users/bogdanvlad/Downloads/MyShop/MyShop/bin/Debug/MyShop.exe.config
+/Users/bogdanvlad/Downloads/MyShop/MyShop/bin/Debug/MyShop.exe
+/Users/bogdanvlad/Downloads/MyShop/MyShop/bin/Debug/MyShop.pdb
+/Users/bogdanvlad/Downloads/MyShop/MyShop/obj/Debug/MyShop.csprojAssemblyReference.cache
+/Users/bogdanvlad/Downloads/MyShop/MyShop/obj/Debug/MyShop.csproj.CoreCompileInputs.cache
+/Users/bogdanvlad/Downloads/MyShop/MyShop/obj/Debug/MyShop.exe
+/Users/bogdanvlad/Downloads/MyShop/MyShop/obj/Debug/MyShop.pdb

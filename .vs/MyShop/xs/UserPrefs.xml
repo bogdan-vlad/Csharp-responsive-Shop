@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{2650BBFF-423A-4995-9C33-E829FC2EF757}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MyShop/ShopItems/StockBox.cs">
+    <Files>
+      <File FileName="MyShop/Program.cs" Line="84" Column="17" />
+      <File FileName="MyShop/ShopItems/BaseShopItem.cs" Line="1" Column="1" />
+      <File FileName="MyShop/ShopItems/Basket.cs" Line="1" Column="1" />
+      <File FileName="MyShop/ShopItems/Bread.cs" Line="1" Column="1" />
+      <File FileName="MyShop/ShopItems/Lemonade.cs" Line="1" Column="1" />
+      <File FileName="MyShop/ShopItems/Stock.cs" Line="91" Column="5" />
+      <File FileName="MyShop/ShopItems/StockBox.cs" Line="68" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.MyShop PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>
